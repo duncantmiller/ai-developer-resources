@@ -6,7 +6,7 @@ I've been keeping a running list of highly recommended and informative resources
 I hope you find these resources useful as well and if you have any to add that I'm missing please email me at [duncan@botdevs.ai](mailto:duncan@botdevs.ai) or submit a PR to update the [source code](https://github.com/duncantmiller/ai-developer-resources/blob/main/technical-courses-books-tutorials.md) for this list.
 
 #### About BotDevs
-[BotDevs.ai](https://botdevs.ai) is a reverse job board for AI developers. We are an open source, open startup. Learn more [about us](https://botdevs.ai/about).
+BotDevs.ai is a reverse job board for AI developers which is run as an open source, open startup. Learn more [about BotDevs](https://botdevs.ai/about).
 
 ### Courses
 - [Intro to Large Language Models](https://youtu.be/zjkBMFhNj_g) - Andrej Karpathy - OpenAI
