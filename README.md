@@ -53,10 +53,11 @@ BotDevs.ai is a reverse job board for AI developers which is run as an open sour
 - [Deep Learning](https://www.amazon.com/gp/product/0262035618) - (paid) Ian Goodfellow, Yoshua Bengio, Aaron Courville
 
 ### Math
-- [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - 3Blue1Brown
+- [Essence of Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra) - 3Blue1Brown
 - [A friendly Introduction to Linear Algebra for ML](https://youtu.be/LlKAna21fLE?si=WjFCOJajjSW94jKN) - Google
 - [Linear Algebra for Machine Learning and Data Science](https://www.coursera.org/learn/machine-learning-linear-algebra) - DeepLearning.ai
 - [Calculus for Machine Learning and Data Science](https://www.coursera.org/learn/machine-learning-calculus?specialization=mathematics-for-machine-learning-and-data-science) - DeepLearning.AI
+- [Introductory Ideas in Probability](https://www.3blue1brown.com/topics/probability) - 3Blue1Brown
 - [Probability & Statistics for Machine Learning & Data Science](https://www.coursera.org/learn/machine-learning-probability-and-statistics?specialization=mathematics-for-machine-learning-and-data-science) - DeepLearning.AI
 
 ### Computer Science / Python
