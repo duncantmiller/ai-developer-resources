@@ -15,6 +15,8 @@ I hope you find these resources useful as well and if you have any to add that I
 - [Practical Deep Learning for Coders](https://youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU) - fast.ai
 - [Deep Reinforcement Learning](https://huggingface.co/learn/deep-rl-course/unit0/introduction) - Hugging Face
 - [Introduction to Reinforcement Learning](https://www.youtube.com/playlist?list=PLSVEhWrZWDHQTBmWZufjxpw3s8sveJtnJ) - David Silver
+- [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python) - IBM
+- [Full Stack Deep Learning](https://fullstackdeeplearning.com/course/)- The Full Stack
 - [CS231n Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4) - Standford
 - [CS224n Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4) - Standford
 - [From Deep Learning Foundations to Stable Diffusion](https://course.fast.ai/Lessons/part2.html) - fast.ai
@@ -23,6 +25,8 @@ I hope you find these resources useful as well and if you have any to add that I
 - [Meta-Learning and Self-Play](https://www.youtube.com/watch?v=9EN_HoEk3KY&amp;ab_channel=LexFridman) - Ilya Sutskever - OpenAI
 - [Deep Learning State of the Art (2020)](https://www.youtube.com/watch?v=0VH1Lim8gL8) - MIT
 - [Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/) - OpenAI
+- [Learn PyTorch for deep learning in a day](https://www.youtube.com/watch?v=Z_ikDlimN6A) - Daniel Bourke
+- [Making Friends with Machine Learning](https://www.youtube.com/watch?v=1vkb7BCMQd0) - Google
 - [Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) - Google
 - [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course) - Google
 - [TensorFlow at Google I/O 2019](https://youtube.com/playlist?list=PLQY2H8rRoyvy2_vtWvCpQWM9GJXNTa5rV&amp;si=dIAcx-Ct4TGlcdcU) - Google
