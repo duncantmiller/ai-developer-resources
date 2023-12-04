@@ -30,7 +30,7 @@ BotDevs.ai is a reverse job board for AI developers which is run as an open sour
 - [Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) - Google
 - [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course) - Google
 - [TensorFlow at Google I/O 2019](https://youtube.com/playlist?list=PLQY2H8rRoyvy2_vtWvCpQWM9GJXNTa5rV&amp;si=dIAcx-Ct4TGlcdcU) - Google
-- [Artificial Intelligence A-Z 2023: Build 5 AI incl. ChatGPT](https://www.udemy.com/course/artificial-intelligence-az/) - (paid)
+- [Artificial Intelligence A-Z 2023: Build 5 AI incl. ChatGPT](https://www.udemy.com/course/artificial-intelligence-az/) - (paid) SuperDataScience
 
 ### Tutorials
 - [200 of the Best Machine Learning, NLP, and Python Tutorials](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc)
@@ -50,5 +50,5 @@ BotDevs.ai is a reverse job board for AI developers which is run as an open sour
 - [CS50's Introduction to Programming with Python](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python) - Harvard
 - [Introduction to Computer Science and Programming Using Python](https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python) - MIT
 - [Become a Better Software Developer (free + paid)](https://www.youtube.com/@ArjanCodes) - ArjanCodes
-- [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code/) - (paid)
+- [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code/) - (paid) London App Brewery
 
