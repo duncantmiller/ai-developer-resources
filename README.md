@@ -8,7 +8,7 @@ I hope you find these resources useful as well and if you have any to add that I
 #### About BotDevs
 BotDevs.ai is a reverse job board for AI developers which is run as an open source, open startup. Learn more [about BotDevs](https://botdevs.ai/about).
 
-### Courses
+### AI Courses
 #### Introductory
 - [Intro to Large Language Models](https://youtu.be/zjkBMFhNj_g) - Andrej Karpathy - OpenAI
 - [CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python) - Harvard
@@ -52,7 +52,7 @@ BotDevs.ai is a reverse job board for AI developers which is run as an open sour
 - [Grokking Deep Learning](https://www.amazon.com/gp/product/1617293709) - (paid) Andrew Trask
 - [Deep Learning](https://www.amazon.com/gp/product/0262035618) - (paid) Ian Goodfellow, Yoshua Bengio, Aaron Courville
 
-### Math
+### Math Courses
 - [Essence of Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra) - 3Blue1Brown
 - [A friendly Introduction to Linear Algebra for ML](https://youtu.be/LlKAna21fLE?si=WjFCOJajjSW94jKN) - Google
 - [Linear Algebra for Machine Learning and Data Science](https://www.coursera.org/learn/machine-learning-linear-algebra) - DeepLearning.ai
@@ -60,7 +60,7 @@ BotDevs.ai is a reverse job board for AI developers which is run as an open sour
 - [Introductory Ideas in Probability](https://www.3blue1brown.com/topics/probability) - 3Blue1Brown
 - [Probability & Statistics for Machine Learning & Data Science](https://www.coursera.org/learn/machine-learning-probability-and-statistics?specialization=mathematics-for-machine-learning-and-data-science) - DeepLearning.AI
 
-### Computer Science / Python
+### Computer Science / Python Courses
 - [CS50's: Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science) - Harvard
 - [CS50's Introduction to Programming with Python](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python) - Harvard
 - [Introduction to Computer Science and Programming Using Python](https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python) - MIT
