@@ -29,8 +29,8 @@ BotDevs.ai is a reverse job board for AI developers which is run as an open sour
 - [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python) - ** IBM
 - [Full Stack Deep Learning](https://fullstackdeeplearning.com/course/)- The Full Stack
 - [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning) - ** DeepLearning.AI
-- [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) - ** Standford
-- [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning) - ** Standford
+- [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) - ** Stanford
+- [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning) - ** Stanford
 - [Transformers for Audio](https://huggingface.co/learn/audio-course/chapter0/introduction) - Hugging Face
 - [Artificial Intelligence A-Z 2023: Build 5 AI incl. ChatGPT](https://www.udemy.com/course/artificial-intelligence-az/) - (paid) SuperDataScience
 
@@ -68,8 +68,8 @@ BotDevs.ai is a reverse job board for AI developers which is run as an open sour
 - [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code/) - (paid) London App Brewery
 
 ### Older Materials
-- [CS231n Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4) - Standford
-- [CS224n Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4) - Standford
+- [CS231n Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4) - Stanford
+- [CS224n Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4) - Stanford
 - [Deep Learning and Artificial Intelligence Lectures](https://deeplearning.mit.edu/) - MIT
 - [Meta-Learning and Self-Play](https://www.youtube.com/watch?v=9EN_HoEk3KY&amp;ab_channel=LexFridman) - Ilya Sutskever - OpenAI
 - [Deep Learning State of the Art (2020)](https://www.youtube.com/watch?v=0VH1Lim8gL8) - MIT
