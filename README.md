@@ -51,6 +51,8 @@ BotDevs.ai is a reverse job board for AI developers which is run as an open sour
 - [Deep Learning with Python - 2nd edition](https://www.amazon.com/gp/product/1617296864/) - (paid) Francois Chollet
 - [Grokking Deep Learning](https://www.amazon.com/gp/product/1617293709) - (paid) Andrew Trask
 - [Deep Learning](https://www.amazon.com/gp/product/0262035618) - (paid) Ian Goodfellow, Yoshua Bengio, Aaron Courville
+- [An Introduction to Statistical Learning: with Applications in Python](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html) - Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani, Jonathan Taylor
+- [An Introduction to Statistical Learning: with Applications in R, Second Edition](https://hastie.su.domains/ISLR2/ISLRv2_corrected_June_2023.pdf.download.html) - Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani
 
 ### Math Courses
 - [Essence of Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra) - 3Blue1Brown
@@ -59,6 +61,8 @@ BotDevs.ai is a reverse job board for AI developers which is run as an open sour
 - [Calculus for Machine Learning and Data Science](https://www.coursera.org/learn/machine-learning-calculus) - ** DeepLearning.AI
 - [Introductory Ideas in Probability](https://www.3blue1brown.com/topics/probability) - 3Blue1Brown
 - [Probability & Statistics for Machine Learning & Data Science](https://www.coursera.org/learn/machine-learning-probability-and-statistics) - ** DeepLearning.AI
+- [Statistical Learning with Python](https://www.edx.org/learn/data-analysis-statistics/stanford-university-statistical-learning-with-python) - Stanford
+- [Statistical Learning with R](https://www.edx.org/learn/statistics/stanford-university-statistical-learning) - Stanford
 
 ### Computer Science / Python Courses
 - [CS50's: Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science) - Harvard
