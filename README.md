@@ -60,10 +60,9 @@ BotDevs.ai is a reverse job board for AI developers which is run as an open sour
 - [Dive into Deep Learning](https://d2l.ai/) - Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola
 - [Deep Learning with Python (Second Edition)](https://www.amazon.com/gp/product/1617296864/) - (paid) Francois Chollet
 - [Grokking Deep Learning](https://www.amazon.com/gp/product/1617293709) - (paid) Andrew Trask
-- [Deep Learning](https://www.amazon.com/gp/product/0262035618) - (paid) Ian Goodfellow, Yoshua Bengio, Aaron Courville
-- [An Introduction to Statistical Learning: with Applications in Python](https://www.statlearning.com/) - (free pdf, paid textbook) Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani, Jonathan Taylor
-- [An Introduction to Statistical Learning: with Applications in R (Second Edition)](https://www.statlearning.com/) - (free pdf, paid textbook) Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani
-- [Deep Learning: An MIT Press book](https://www.deeplearningbook.org/) - Ian Goodfellow, Yoshua Bengio, Aaron Courville
+- [Deep Learning: An MIT Press Book](https://www.amazon.com/gp/product/0262035618) - (paid textbook, [free eBook](https://www.deeplearningbook.org/)) Ian Goodfellow, Yoshua Bengio, Aaron Courville
+- [An Introduction to Statistical Learning: with Applications in Python](https://www.statlearning.com/) - (paid textbook, [free eBook](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)) Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani, Jonathan Taylor
+- [An Introduction to Statistical Learning: with Applications in R (Second Edition)](https://www.statlearning.com/) - (paid textbook, [free eBook](https://hastie.su.domains/ISLR2/ISLRv2_corrected_June_2023.pdf.download.html)) Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani
 - [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow (Second Edition)](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646) - (paid) - Aurélien Géron
 - [Deep Learning from Scratch: Building with Python from First Principles](https://www.amazon.com/Deep-Learning-Scratch-Building-Principles/dp/1492041416) - (paid) Seth Weidman
 - [Reinforcement Learning: An Introduction MIT Press](http://incompleteideas.net/book/the-book.html) - Richard S. Sutton, Andrew G. Barto
