@@ -44,7 +44,12 @@ BotDevs.ai is a reverse job board for AI developers which is run as an open sour
 - [Generative AI with Large Language Models](https://www.deeplearning.ai/courses/generative-ai-with-llms/) - *** AWS /DeepLearning.AI
 
 ### Tutorials
-- [200 of the Best Machine Learning, NLP, and Python Tutorials](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc)
+- [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning) - Kaggle
+- [Machine Learning & Natural Language Processing Tutorials](https://www.machinelearningisfun.com/) - Machine Learning is Fun
+- [Getting Started with Machine Learning in Python](https://www.stxnext.com/blog/getting-started-machine-learning-python/) - STX Next
+- [A Neural Network in 11 lines of Python](https://iamtrask.github.io/2015/07/12/basic-python-network/) - i am trask
+- [An Introduction to different Types of Convolutions in Deep Learning](https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d) - Paul-Louis Pröve
+
 
 ### Books
 - [Deep Learning for Coders with fastai and PyTorch](https://github.com/fastai/fastbook) - fast.ai
@@ -78,6 +83,7 @@ BotDevs.ai is a reverse job board for AI developers which is run as an open sour
 - [Meta-Learning and Self-Play](https://www.youtube.com/watch?v=9EN_HoEk3KY&amp;ab_channel=LexFridman) - Ilya Sutskever - OpenAI
 - [Deep Learning State of the Art (2020)](https://www.youtube.com/watch?v=0VH1Lim8gL8) - MIT
 - [TensorFlow at Google I/O 2019](https://youtube.com/playlist?list=PLQY2H8rRoyvy2_vtWvCpQWM9GJXNTa5rV&amp;si=dIAcx-Ct4TGlcdcU) - Google
+- [200 of the Best Machine Learning, NLP, and Python Tutorials (2018)](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc) - Robbie Allen
 
 ### Notes
 ** Most Coursera courses can be audited for free. From the enrollment page just choose the "audit" option when registering. When you audit a course you'll be able to see most of the course materials for free, but you won't be able to submit certain assessments or get grades for your work. You won't get a certificate, but you can pay for one at any time during or after the course. If you pay for a certificate, you may need to complete more coursework that wasn’t available in the audit version.
