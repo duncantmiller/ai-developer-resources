@@ -51,8 +51,8 @@ BotDevs.ai is a reverse job board for AI developers which is run as an open sour
 - [Deep Learning with Python - 2nd edition](https://www.amazon.com/gp/product/1617296864/) - (paid) Francois Chollet
 - [Grokking Deep Learning](https://www.amazon.com/gp/product/1617293709) - (paid) Andrew Trask
 - [Deep Learning](https://www.amazon.com/gp/product/0262035618) - (paid) Ian Goodfellow, Yoshua Bengio, Aaron Courville
-- [An Introduction to Statistical Learning: with Applications in Python](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html) - Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani, Jonathan Taylor
-- [An Introduction to Statistical Learning: with Applications in R, Second Edition](https://hastie.su.domains/ISLR2/ISLRv2_corrected_June_2023.pdf.download.html) - Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani
+- [An Introduction to Statistical Learning: with Applications in Python](https://www.statlearning.com/) - (free pdf, paid textbook) Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani, Jonathan Taylor
+- [An Introduction to Statistical Learning: with Applications in R, Second Edition](https://www.statlearning.com/) - (free pdf, paid textbook) Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani
 
 ### Math Courses
 - [Essence of Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra) - 3Blue1Brown
