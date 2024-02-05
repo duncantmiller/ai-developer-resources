@@ -51,7 +51,7 @@ PromptShiro is a tool suite for prompt engineering, model versioning, quantitati
 - [Machine Learning & Natural Language Processing Tutorials](https://www.machinelearningisfun.com/) - Machine Learning is Fun
 - [Feature Engineering](https://www.kaggle.com/learn/feature-engineering) - Kaggle
 - [A Neural Network in 11 lines of Python](https://iamtrask.github.io/2015/07/12/basic-python-network/) - i am trask
-- [An Introduction to different Types of Convolutions in Deep Learning](https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d) - Paul-Louis Pröve
+- [An Introduction to different Types of Convolutions in Deep Learning](https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d) - Paul-Louis Prove
 - [TensorFlow Official Tutorials for Beginners and for Experts](https://www.tensorflow.org/tutorials) - TensorFlow
 - [PyTorch Official Tutorials](https://pytorch.org/tutorials/) - PyTorch
 
@@ -63,7 +63,7 @@ PromptShiro is a tool suite for prompt engineering, model versioning, quantitati
 - [Deep Learning: An MIT Press Book](https://www.amazon.com/gp/product/0262035618) - (paid textbook, [free eBook](https://www.deeplearningbook.org/)) Ian Goodfellow, Yoshua Bengio, Aaron Courville
 - [An Introduction to Statistical Learning: with Applications in Python](https://www.statlearning.com/) - (paid textbook, [free eBook](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)) Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani, Jonathan Taylor
 - [An Introduction to Statistical Learning: with Applications in R (Second Edition)](https://www.statlearning.com/) - (paid textbook, [free eBook](https://hastie.su.domains/ISLR2/ISLRv2_corrected_June_2023.pdf.download.html)) Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani
-- [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow (Second Edition)](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646) - (paid) - Aurélien Géron
+- [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow (Second Edition)](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646) - (paid) - Aurelien Geron
 - [Deep Learning from Scratch: Building with Python from First Principles](https://www.amazon.com/Deep-Learning-Scratch-Building-Principles/dp/1492041416) - (paid) Seth Weidman
 - [Reinforcement Learning: An Introduction MIT Press](http://incompleteideas.net/book/the-book.html) - Richard S. Sutton, Andrew G. Barto
 
@@ -96,6 +96,6 @@ PromptShiro is a tool suite for prompt engineering, model versioning, quantitati
 - [200 of the Best Machine Learning, NLP, and Python Tutorials (2018)](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc) - Robbie Allen
 
 ### Notes
-** Most Coursera courses can be audited for free. From the enrollment page just choose the "audit" option when registering. When you audit a course you'll be able to see most of the course materials for free, but you won't be able to submit certain assessments or get grades for your work. You won't get a certificate, but you can pay for one at any time during or after the course. If you pay for a certificate, you may need to complete more coursework that wasn’t available in the audit version.
+** Most Coursera courses can be audited for free. From the enrollment page just choose the "audit" option when registering. When you audit a course you'll be able to see most of the course materials for free, but you won't be able to submit certain assessments or get grades for your work. You won't get a certificate, but you can pay for one at any time during or after the course. If you pay for a certificate, you may need to complete more coursework that wasn't available in the audit version.
 
 *** Coursera specializations require a paid account, however you can enroll in the individual courses included in the specialization and audit those for free, see details above. To see the courses included in a specialization, click the "courses" tab on the specialization enrollment page.
