@@ -45,6 +45,7 @@ PromptShiro is a tool suite for prompt engineering, model versioning, quantitati
 - [Generative AI with Large Language Models](https://www.deeplearning.ai/courses/generative-ai-with-llms/) - *** AWS /DeepLearning.AI
 
 ### Tutorials
+- [Let's build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY) - Andrej Karpathy
 - [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning) - Kaggle
 - [Getting Started with Machine Learning in Python](https://www.stxnext.com/blog/getting-started-machine-learning-python/) - STX Next
 - [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning) - Kaggle
@@ -84,7 +85,7 @@ PromptShiro is a tool suite for prompt engineering, model versioning, quantitati
 - [Become a Better Software Developer](https://www.youtube.com/@ArjanCodes) - (free + paid) ArjanCodes
 - [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code/) - (paid) London App Brewery
 - [Intro to Computer Science - Python](https://www.khanacademy.org/computing/intro-to-python-fundamentals) - Khan Academy
-- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - (free eBook, paid course) - Al Sweigart
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - (free eBook, [paid course](https://www.udemy.com/course/automate/)) - Al Sweigart
 
 ### Older Materials
 - [CS231n Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4) - Stanford
