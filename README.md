@@ -3,10 +3,10 @@
 I've been keeping a running list of highly recommended and informative resources that I have come across while learning more about AI and Machine Learning. Most of these are technical resources intended for experienced software engineers, developers, and coders. The majority of these resources are free and for any that are not, I've added (paid) to the title to distinguish.
 
 #### Contributing
-I hope you find these resources useful as well and if you have any to add that I'm missing please email me at [duncan@openshiro.com](mailto:duncan@openshiro.com) or submit a PR to update the [source code](https://github.com/duncantmiller/ai-developer-resources/blob/main/README.md) for this list.
+I hope you find these resources useful as well and if you have any to add that I'm missing please email me at [duncan@rozerolabs.com](mailto:duncan@rozerolabs.com) or submit a PR to update the [source code](https://github.com/duncantmiller/ai-developer-resources/blob/main/README.md) for this list.
 
-#### About Shiro
-Shiro is a tool suite for prompt engineering, model versioning, quantitative testing, performance monitoring, and fine-tuning developed I developed at OpenShiro. Learn more [about OpenShiro](https://openshiro.com/).
+#### About RoZero Labs
+We are a robotics integrator developing technology for autonomous disassembly of EV batteries for recycling using machine learning and AI. Learn more [about RoZero Labs](https://rozerolabs.com/).
 
 ### AI Courses
 #### Introductory
