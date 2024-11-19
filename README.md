@@ -23,6 +23,7 @@ We are a robotics integrator developing technology for autonomous disassembly of
 - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow) - ** DeepLearning.AI
 - [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) - ** DeepLearning.AI
 - [Machine Learning for Everybody](https://www.youtube.com/watch?v=i_LwzRVP7bg&ab_channel=freeCodeCamp.org) - FreeCodeCamp
+- [EECS 189 Introduction to Machine Learning](https://eecs189.org/) - UC Berkeley
 
 #### Intermediate
 - [Natural Language Processing](https://huggingface.co/learn/nlp-course/chapter1/1) - Hugging Face
@@ -67,6 +68,8 @@ We are a robotics integrator developing technology for autonomous disassembly of
 - [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow (Second Edition)](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646) - (paid) - Aurelien Geron
 - [Deep Learning from Scratch: Building with Python from First Principles](https://www.amazon.com/Deep-Learning-Scratch-Building-Principles/dp/1492041416) - (paid) Seth Weidman
 - [Reinforcement Learning: An Introduction MIT Press](http://incompleteideas.net/book/the-book.html) - Richard S. Sutton, Andrew G. Barto
+- [The Mechanics of Machine Learning](https://mlbook.explained.ai/) - Terence Parr, Jeremy Howard
+- [Understanding Machine Learning: From Theory to Algorithms](https://www.amazon.com/Understanding-Machine-Learning-Theory-Algorithms/dp/1107057132) - Shai Shalev-Shwartz, Shai Ben-David (paid textbook - [free video lectures](https://www.youtube.com/playlist?list=PLPW2keNyw-usgvmR7FTQ3ZRjfLs5jT4BO))
 
 ### Math Courses
 - [Essence of Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra) - 3Blue1Brown
